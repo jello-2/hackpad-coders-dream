@@ -5,6 +5,7 @@ A 3 key macropad for Hackpad V2. Equipped with a 0.96" OLED screen. Created to b
 - 3x Cherry MX Switches
 - 1x SSD1036 OLED 128x64 0.96"
 - 2x 4.7K Through-hole Resistors
+- 1x XIAO RP2040
 - 1x PCB
 
 # Fully Assembled Macropad
