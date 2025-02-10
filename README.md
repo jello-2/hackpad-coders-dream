@@ -13,9 +13,9 @@ A 3 key macropad for Hackpad V2. Equipped with a 0.96" OLED screen. Created to b
 ![image](https://github.com/user-attachments/assets/669523a7-7a5c-4c52-b252-9a663782d715)
 
 # PCB
-![image](https://github.com/user-attachments/assets/96639ff0-4c33-4bb2-bffa-6aee0a1aaa5b)
+![image](https://github.com/user-attachments/assets/cf5d3fed-d945-4ed4-b977-57d592f2f5c1)
 
 # Schematics
-![image](https://github.com/user-attachments/assets/7cc40b50-098b-48e6-a086-6979c979c778)
+![image](https://github.com/user-attachments/assets/a7d04ef5-84dd-459b-802d-d340592abc29)
 
 
